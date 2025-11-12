@@ -1,6 +1,6 @@
 .PHONY: $(MAKECMDGOALS)
 
-FOLDERPATH="C:\Users\DeagleCakes\notevault"
+FOLDERPATH="C:\Users\Dagen Braun\Documents\notevault"
 DESTINATION="C:\Users\e422445\notevault\Personal"
 
 sync_up:
